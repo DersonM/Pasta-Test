@@ -21,5 +21,8 @@ body {
     min-width: 100vw;
     display: flex;
     align-items: center;
-    justify-content:center ;
+    justify-content: center;
+}
+#texto{
+    color: var(--branco-azure);
 }
