@@ -19,10 +19,11 @@ body {
     background: linear-gradient(90deg, var(--azul-intermedio), var(--lilás-fraco));
     min-height: 100vh;
     min-width: 100vw;
-    display: flex;
+    display:grid;
     align-items: center;
     justify-content: center;
 }
 #texto{
     color: var(--branco-azure);
+
 }
